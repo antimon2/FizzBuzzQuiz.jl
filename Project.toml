@@ -1,0 +1,10 @@
+name = "FizzBuzzQuiz"
+uuid = "21722cf0-b7d5-11e8-334b-05128eaae1be"
+authors = ["antimon2 <antimon2.me@gmail.com>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
